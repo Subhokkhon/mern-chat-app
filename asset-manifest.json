@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mern-chat-app/static/css/main.5704f45a.css",
+    "main.js": "/mern-chat-app/static/js/main.5647e157.js",
+    "static/js/453.6b13cf6c.chunk.js": "/mern-chat-app/static/js/453.6b13cf6c.chunk.js",
+    "static/media/rectangle2@2x.png": "/mern-chat-app/static/media/rectangle2@2x.675fd2ed8ace2dfe0c1d.png",
+    "static/media/rectangle-51@2x.png": "/mern-chat-app/static/media/rectangle-51@2x.5174672206aba108887a.png",
+    "static/media/rectangle-52@2x.png": "/mern-chat-app/static/media/rectangle-52@2x.a0327524ae6c39c10268.png",
+    "index.html": "/mern-chat-app/index.html",
+    "main.5704f45a.css.map": "/mern-chat-app/static/css/main.5704f45a.css.map",
+    "main.5647e157.js.map": "/mern-chat-app/static/js/main.5647e157.js.map",
+    "453.6b13cf6c.chunk.js.map": "/mern-chat-app/static/js/453.6b13cf6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5704f45a.css",
+    "static/js/main.5647e157.js"
+  ]
+}
